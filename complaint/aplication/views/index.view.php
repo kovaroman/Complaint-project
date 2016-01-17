@@ -51,7 +51,6 @@
 			<div class="form-group">
 				<div class="col-sm-offset-3 col-sm-9">
 					<button type="submit" class="btn btn-success" id="submit_form">Надіслати</button>
-					<a href="#" class="btn btn-default">Очистити</a>
 				</div>
 			</div>
 			<div id="loading"></div>
