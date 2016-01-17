@@ -56,8 +56,8 @@ $config['module']['autoLoad'] = array(); // module names only
 /*
  * Captcha settings
  */
-$config['captcha']['key'] = '6LdW-xMTAAAAAMnNdBWIq6xTzHlbTw6X6I7OEbCQ';
-$config['captcha']['secret'] = '6LdW-xMTAAAAANnBzODhJDVrEWF1FhOPOyf0juQw';
+$config['captcha']['key'] = '6LdW-sdfs';
+$config['captcha']['secret'] = '6LdW-sdfsfs';
 
 
 return $config;
